@@ -8,6 +8,8 @@ This project focuses on showcasing my PowerBi skills and my knowledge of more ni
 | PgAdmin4 | Creating a database, data entry, data manipulation |
 # Conclusion:
 
+This analysis provided valuable insights into online retail sales, such as identifying top-selling products, understanding seasonal sales trends, and recognizing key markets. Future work could include deeper analysis of customer behavior and exploring other dimensions of the data.
+
 # PowerBI Questions: 
 Note: Questions answered in PowerBI may be different than the ones answered in PostgreSQL
 
