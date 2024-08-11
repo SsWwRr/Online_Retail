@@ -18,12 +18,14 @@ Note: Questions answered in Power BI may differ from those addressed using Postg
 
 Answer:
 The majority of orders (~82%) are coming from the UK. Other European countries contribute to the remaining orders, with the Netherlands having the second-highest share at 3.87%.
+
 ![image](https://github.com/user-attachments/assets/960b7f19-c25b-4eec-a236-45ba1f33ef45)
 
 * Question 2: How do sales throughout the year comapre to the sales during the christmas season?
 
 Answer:
 Sales during the year are on average ~38% lower compared to the peak during the Christmas season.
+
 ![image](https://github.com/user-attachments/assets/db7269bd-f8bc-4467-9c25-95ba7bf0be1c)
 
 * Question 3: What are the top 10 products ranked by the quantity sold?
