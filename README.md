@@ -1,34 +1,36 @@
 # Online Retail Data Analysis
 # Introduction
-This project focuses on showcasing my PowerBi skills and my knowledge of more niche/advancced SQL knowledge (creating functions, functions such as string_agg).
+This project focuses on showcasing my skills in Power BI and my knowledge of advanced SQL techniques, including creating functions and using aggregate functions such as string_agg().
 | Technology used | Skills used |
 | --- | --- |
 | PostgreSQL | Creating functions, Window functions, Data analysis |
 | PowerBI | Data Analysis, Data manipulation | 
 | PgAdmin4 | Creating a database, data entry, data manipulation |
-# Conclusion:
 
-This analysis provided valuable insights into online retail sales, such as identifying top-selling products, understanding seasonal sales trends, and recognizing key markets. Future work could include deeper analysis of customer behavior and exploring other dimensions of the data.
+# Conclusion
+# Through this analysis, I gained valuable insights into online retail sales, such as identifying top-selling products, understanding seasonal sales trends, and recognizing key markets. The use of Power BI allowed me to visualize and interact with the data effectively, uncovering trends that might have been overlooked with traditional analysis methods. Additionally, leveraging advanced PostgreSQL functions like string_agg() and custom functions enabled me to handle and analyze complex datasets more efficiently. These skills have enhanced my ability to conduct comprehensive data analysis and generate actionable insights.
 
 # PowerBI Questions: 
-Note: Questions answered in PowerBI may be different than the ones answered in PostgreSQL
 
-Question 1: From which european countries are the orders comming from?
+Note: Questions answered in Power BI may differ from those addressed using PostgreSQL.
+
+* Question 1: From which european countries are the orders comming from?
+
+Answer:
+The majority of orders (~82%) are coming from the UK. Other European countries contribute to the remaining orders, with the Netherlands having the second-highest share at 3.87%.
 ![image](https://github.com/user-attachments/assets/960b7f19-c25b-4eec-a236-45ba1f33ef45)
 
-Answer: Most of the orders (~82%) are coming from UK, the rest of the orders is more or less evenly scattered throughout Europe with Netherlands having (3,87%) as the second country with the most orders.
+* Question 2: How do sales throughout the year comapre to the sales during the christmas season?
 
-Question 2: How do sales throughout the year comapre to the sales during the christmas season?
-
+Answer:
+Sales during the year are on average ~38% lower compared to the peak during the Christmas season.
 ![image](https://github.com/user-attachments/assets/db7269bd-f8bc-4467-9c25-95ba7bf0be1c)
 
-Answer: Sales during the year are on average ~38% percent worse than during the christmas season.
-
-Question 3: What are the top 10 products ranked by the quantity sold?
+* Question 3: What are the top 10 products ranked by the quantity sold?
 
 ![image](https://github.com/user-attachments/assets/d3a1ed9e-d0ae-478b-a628-e1a90e72d326)
 
-Question 4: What are the top 10 categories by sales percentage?
+* Question 4: What are the top 10 categories by sales percentage?
 
 ![image](https://github.com/user-attachments/assets/d481b909-7f2f-4b9b-88a1-a263558026b8)
 
